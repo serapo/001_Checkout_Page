@@ -12,10 +12,11 @@ recalculated by the js functions. </p>
   <li> Callback functions </li> 
   <li> String-array functions </li>
   <li> Events </li>
-  <br>
   <hr>
-  <br>
   
+  You can click and check it out! 
+  Github: https:https://lnkd.in/gEUW-x7S
+
   ![Project 001 Checkout Page](checkout_app.gif)
 
 </ul>
