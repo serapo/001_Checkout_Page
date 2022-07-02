@@ -13,6 +13,6 @@ recalculated by the js functions. </p>
   <li> String-array functions </li>
   <li> Events </li>
   
-  ![Project 001 Checkout Page](Project_004.png)
+  ![Project 001 Checkout Page](checkout_app.gif)
 
 </ul>
