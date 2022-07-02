@@ -15,7 +15,7 @@ recalculated by the js functions. </p>
   <hr>
   
   You can click and check it out! 
-  Github: https:https://lnkd.in/gEUW-x7S
+  Github: https://serapo.github.io/001_Checkout_Page/
 
   ![Project 001 Checkout Page](checkout_app.gif)
 
