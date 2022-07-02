@@ -12,6 +12,9 @@ recalculated by the js functions. </p>
   <li> Callback functions </li> 
   <li> String-array functions </li>
   <li> Events </li>
+  <br>
+  <hr>
+  <br>
   
   ![Project 001 Checkout Page](checkout_app.gif)
 
